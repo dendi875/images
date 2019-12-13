@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="40cm"
+   height="31cm"
+   viewBox="523 -46 788 608"
+   id="svg2">
+  <metadata
+     id="metadata422">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs420" />
+  <g
+     id="g4">
+    <rect
+       width="788"
+       height="607.68402"
+       x="523.00201"
+       y="-45.434399"
+       id="rect6"
+       style="fill:#fffff6" />
+    <rect
+       width="788"
+       height="607.68402"
+       x="523.00201"
+       y="-45.434399"
+       id="rect8"
+       style="fill:none;stroke:#ffffff" />
+  </g>
+  <polygon
+     points="1274,125 1275,460 586,459 586,274.25 680,214.25 681,125 "
+     id="polygon10"
+     style="fill:none;stroke:#ff0000;stroke-width:6;stroke-dasharray:4" />
+  <text
+     x="534"
+     y="244"
+     id="text12"
+     style="font-size:18.06220055px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Liberation Sans">
+    <tspan
+       x="534"
+       y="244"
+       id="tspan14">/service</tspan>
+  </text>
+  <g
+     id="g16">
+    <rect
+       width="165"
+       height="28"
+       x="1073"
+       y="145.3"
+       id="rect18"
+       style="fill:#ffffff" />
+    <rect
+       width="165"
+       height="28"
+       x="1073"
+       y="145.3"
+       id="rect20"
+       style="fill:none;stroke:#000000;stroke-width:4" />
+  </g>
+  <text
+     x="903"
+     y="413"
+     id="text22"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="903"
+       y="413"
+       id="tspan24" />
+  </text>
+  <text
+     x="743.28998"
+     y="462.19601"
+     id="text26"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="743.28998"
+       y="462.19601"
+       id="tspan28" />
+  </text>
+  <text
+     x="760"
+     y="75.767799"
+     id="text30"
+     style="font-size:18.06220055px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Liberation Sans">
+    <tspan
+       x="760"
+       y="75.767799"
+       id="tspan32">System Boot</tspan>
+  </text>
+  <text
+     x="613"
+     y="108"
+     id="text34"
+     style="font-size:18.06220055px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Liberation Sans">
+    <tspan
+       x="613"
+       y="108"
+       id="tspan36">inittab or /etc/init/daemontools.conf or /etc/rc.local</tspan>
+  </text>
+  <text
+     x="770"
+     y="117"
+     id="text38"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="770"
+       y="117"
+       id="tspan40" />
+  </text>
+  <text
+     x="1155.5"
+     y="165.575"
+     id="text42"
+     style="font-size:18.06220055px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:Liberation Sans">
+    <tspan
+       x="1155.5"
+       y="165.575"
+       id="tspan44">svscan /service</tspan>
+  </text>
+  <g
+     id="g46">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:4"
+       points="868.734,69 1094,68 1093.95,104.114 1026.97,104.017 "
+       id="polyline48" />
+    <polygon
+       points="1029.48,99.0209 1026.97,104.017 1029.46,109.021 1019.47,104.006 "
+       id="polygon50"
+       style="fill:#000000" />
+    <polygon
+       points="1029.48,99.0209 1026.97,104.017 1029.46,109.021 1019.47,104.006 "
+       id="polygon52"
+       style="fill:none;stroke:#000000;stroke-width:4" />
+  </g>
+  <text
+     x="1044"
+     y="98"
+     id="text54"
+     style="font-size:18.06220055px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Liberation Sans">
+    <tspan
+       x="1044"
+       y="98"
+       id="tspan56">Runs</tspan>
+  </text>
+  <g
+     id="g58">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:4"
+       points="606.954,104.114 534,104 534,158 693.678,158.465 "
+       id="polyline60" />
+    <polygon
+       points="691.163,163.458 693.678,158.465 691.192,153.458 701.178,158.487 "
+       id="polygon62"
+       style="fill:#000000" />
+    <polygon
+       points="691.163,163.458 693.678,158.465 691.192,153.458 701.178,158.487 "
+       id="polygon64"
+       style="fill:none;stroke:#000000;stroke-width:4" />
+  </g>
+  <text
+     x="598"
+     y="151"
+     id="text66"
+     style="font-size:18.06220055px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Liberation Sans">
+    <tspan
+       x="598"
+       y="151"
+       id="tspan68">Runs</tspan>
+  </text>
+  <g
+     id="g70">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:4"
+       points="1136.27,175.303 1115,193 1115.16,241 609.972,240.023 "
+       id="polyline72" />
+    <polygon
+       points="612.482,235.028 609.972,240.023 612.462,245.028 602.472,240.009 "
+       id="polygon74"
+       style="fill:#000000" />
+    <polygon
+       points="612.482,235.028 609.972,240.023 612.462,245.028 602.472,240.009 "
+       id="polygon76"
+       style="fill:none;stroke:#000000;stroke-width:4" />
+  </g>
+  <text
+     x="998"
+     y="154"
+     id="text78"
+     style="font-size:18.06220055px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Liberation Sans">
+    <tspan
+       x="998"
+       y="154"
+       id="tspan80">Runs</tspan>
+  </text>
+  <g
+     id="g82">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:4"
+       x1="914.98999"
+       y1="158.744"
+       x2="1059.35"
+       y2="159.078"
+       id="line84" />
+    <polygon
+       points="1056.84,164.072 1059.35,159.078 1056.86,154.072 1066.85,159.095 "
+       id="polygon86"
+       style="fill:#000000" />
+    <polygon
+       points="1056.84,164.072 1059.35,159.078 1056.86,154.072 1066.85,159.095 "
+       id="polygon88"
+       style="fill:none;stroke:#000000;stroke-width:4" />
+  </g>
+  <text
+     x="727"
+     y="235"
+     id="text90"
+     style="font-size:18.06220055px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Liberation Sans">
+    <tspan
+       x="727"
+       y="235"
+       id="tspan92">Scans</tspan>
+  </text>
+  <text
+     x="769"
+     y="364"
+     id="text94"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="769"
+       y="364"
+       id="tspan96" />
+  </text>
+  <text
+     x="1742"
+     y="412.06601"
+     id="text98"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="1742"
+       y="412.06601"
+       id="tspan100" />
+  </text>
+  <text
+     x="978.28998"
+     y="445.496"
+     id="text102"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="978.28998"
+       y="445.496"
+       id="tspan104" />
+  </text>
+  <text
+     x="1026"
+     y="364.29999"
+     id="text106"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="1026"
+       y="364.29999"
+       id="tspan108" />
+  </text>
+  <text
+     x="1013"
+     y="405.29999"
+     id="text110"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="1013"
+       y="405.29999"
+       id="tspan112" />
+  </text>
+  <text
+     x="1076"
+     y="392"
+     id="text114"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="1076"
+       y="392"
+       id="tspan116" />
+  </text>
+  <text
+     x="1035"
+     y="432"
+     id="text118"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="1035"
+       y="432"
+       id="tspan120" />
+  </text>
+  <text
+     x="1073"
+     y="421"
+     id="text122"
+     style="font-size:23.70669937px;font-style:normal;font-weight:700;text-anchor:start;fill:#000000;font-family:Liberation Sans">
+    <tspan
+       x="1073"
+       y="421"
+       id="tspan124">N</tspan>
+  </text>
+  <text
+     x="1192.5"
+     y="478.29999"
+     id="text126"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="1192.5"
+       y="478.29999"
+       id="tspan128" />
+  </text>
+  <text
+     x="1205"
+     y="465"
+     id="text130"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="1205"
+       y="465"
+       id="tspan132" />
+  </text>
+  <text
+     x="1205"
+     y="467"
+     id="text134"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="1205"
+       y="467"
+       id="tspan136" />
+  </text>
+  <text
+     x="689"
+     y="480"
+     id="text138"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="689"
+       y="480"
+       id="tspan140" />
+  </text>
+  <text
+     x="896"
+     y="103"
+     id="text142"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="896"
+       y="103"
+       id="tspan144" />
+  </text>
+  <text
+     x="889"
+     y="102"
+     id="text146"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="889"
+       y="102"
+       id="tspan148" />
+  </text>
+  <text
+     x="1231"
+     y="230.98599"
+     id="text150"
+     style="font-size:18.06220055px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000099;font-family:Liberation Sans">
+    <tspan
+       x="1231"
+       y="230.98599"
+       id="tspan152">loop</tspan>
+    <tspan
+       x="1231"
+       y="253.564"
+       id="tspan154">forever</tspan>
+  </text>
+  <path
+     d="m 1207,232.566 c -23,-13 -86,-47.566 -108,-30.566 -22,17 67,37 72,14"
+     inkscape:connector-curvature="0"
+     id="path156"
+     style="fill:none;stroke:#00c000;stroke-width:4" />
+  <g
+     id="g158">
+    <rect
+       width="3.1819799"
+       height="5.3032999"
+       x="1113.39"
+       y="195.89101"
+       id="rect160"
+       style="fill:#000000" />
+    <rect
+       width="3.1819799"
+       height="5.3032999"
+       x="1113.39"
+       y="195.89101"
+       id="rect162"
+       style="fill:none;stroke:#000000" />
+  </g>
+  <g
+     id="g164">
+    <rect
+       width="3.1819799"
+       height="5.3032999"
+       x="1153.87"
+       y="206.25"
+       id="rect166"
+       style="fill:#000000" />
+    <rect
+       width="3.1819799"
+       height="5.3032999"
+       x="1153.87"
+       y="206.25"
+       id="rect168"
+       style="fill:none;stroke:#000000" />
+  </g>
+  <text
+     x="906.00201"
+     y="-1.43435"
+     id="text170"
+     style="font-size:36.12440109px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Liberation Sans">
+    <tspan
+       x="906.00201"
+       y="-1.43435"
+       id="tspan172">Components of daemontools</tspan>
+  </text>
+  <text
+     x="711.00201"
+     y="481.31601"
+     id="text174"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="711.00201"
+       y="481.31601"
+       id="tspan176" />
+  </text>
+  <text
+     x="902.00201"
+     y="24.0156"
+     id="text178"
+     style="font-size:23.70669937px;font-style:normal;font-weight:700;text-anchor:middle;fill:#ff0000;font-family:Liberation Sans">
+    <tspan
+       x="902.00201"
+       y="24.0156"
+       id="tspan180">Area surrounded by red dotted line is daemontools system</tspan>
+  </text>
+  <g
+     id="g182">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:4"
+       x1="1155.5"
+       y1="173.3"
+       x2="1155.4301"
+       y2="330.63199"
+       id="line184" />
+    <polygon
+       points="1150.43,328.13 1155.43,330.632 1160.43,328.135 1155.42,338.132 "
+       id="polygon186"
+       style="fill:#000000" />
+    <polygon
+       points="1150.43,328.13 1155.43,330.632 1160.43,328.135 1155.42,338.132 "
+       id="polygon188"
+       style="fill:none;stroke:#000000;stroke-width:4" />
+  </g>
+  <path
+     d="m 1089,311.566 c 29,-3 82.01,14.092 83,-21 0.99,-35.094 -28,-5 -47,21"
+     inkscape:connector-curvature="0"
+     id="path190"
+     style="fill:none;stroke:#00c000;stroke-width:4" />
+  <text
+     x="1042"
+     y="272.263"
+     id="text192"
+     style="font-size:18.06220055px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000099;font-family:Liberation Sans">
+    <tspan
+       x="1042"
+       y="272.263"
+       id="tspan194">foreach</tspan>
+    <tspan
+       x="1042"
+       y="294.841"
+       id="tspan196">symlink</tspan>
+    <tspan
+       x="1042"
+       y="317.41901"
+       id="tspan198">to /service</tspan>
+  </text>
+  <text
+     x="1066"
+     y="347.56601"
+     id="text200"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="1066"
+       y="347.56601"
+       id="tspan202" />
+  </text>
+  <g
+     id="g204">
+    <polygon
+       points="1234.79,393.066 1155.4,441.566 1076,393.066 1155.4,344.566 "
+       id="polygon206"
+       style="fill:#ffffff" />
+    <polygon
+       points="1234.79,393.066 1155.4,441.566 1076,393.066 1155.4,344.566 "
+       id="polygon208"
+       style="fill:none;stroke:#000000;stroke-width:4" />
+    <text
+       x="1155.4"
+       y="398.52701"
+       id="text210"
+       style="font-size:18.06220055px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans-serif">
+      <tspan
+         x="1155.4"
+         y="398.52701"
+         id="tspan212" />
+    </text>
+  </g>
+  <g
+     id="g214">
+    <rect
+       width="3.1819799"
+       height="5.3032999"
+       x="1153.5"
+       y="275.866"
+       id="rect216"
+       style="fill:#000000" />
+    <rect
+       width="3.1819799"
+       height="5.3032999"
+       x="1153.5"
+       y="275.866"
+       id="rect218"
+       style="fill:none;stroke:#000000" />
+  </g>
+  <text
+     x="1155.4"
+     y="388.052"
+     id="text220"
+     style="font-size:18.06220055px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:Liberation Sans">
+    <tspan
+       x="1155.4"
+       y="388.052"
+       id="tspan222">Symlinked</tspan>
+    <tspan
+       x="1155.4"
+       y="410.63"
+       id="tspan224">last time?</tspan>
+  </text>
+  <g
+     id="g226">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:4"
+       x1="1074"
+       y1="393.33701"
+       x2="1016.97"
+       y2="393.526"
+       id="line228" />
+    <polygon
+       points="1019.46,388.518 1016.97,393.526 1019.49,398.518 1009.47,393.551 "
+       id="polygon230"
+       style="fill:#000000" />
+    <polygon
+       points="1019.46,388.518 1016.97,393.526 1019.49,398.518 1009.47,393.551 "
+       id="polygon232"
+       style="fill:none;stroke:#000000;stroke-width:4" />
+  </g>
+  <text
+     x="1034"
+     y="383.56601"
+     id="text234"
+     style="font-size:18.06220055px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Liberation Sans">
+    <tspan
+       x="1034"
+       y="383.56601"
+       id="tspan236">Runs</tspan>
+  </text>
+  <g
+     id="g238">
+    <rect
+       width="204.5"
+       height="28"
+       x="797.00201"
+       y="379.866"
+       id="rect240"
+       style="fill:#ffffff" />
+    <rect
+       width="204.5"
+       height="28"
+       x="797.00201"
+       y="379.866"
+       id="rect242"
+       style="fill:none;stroke:#000000;stroke-width:4" />
+  </g>
+  <text
+     x="899.25201"
+     y="400.14099"
+     id="text244"
+     style="font-size:18.06220055px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:Liberation Sans">
+    <tspan
+       x="899.25201"
+       y="400.14099"
+       id="tspan246">supervise svcdir</tspan>
+  </text>
+  <text
+     x="951.00201"
+     y="396.56601"
+     id="text248"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="951.00201"
+       y="396.56601"
+       id="tspan250" />
+  </text>
+  <text
+     x="373.50201"
+     y="-160.23399"
+     id="text252"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="373.50201"
+       y="-160.23399"
+       id="tspan254" />
+  </text>
+  <text
+     x="360.50201"
+     y="-119.234"
+     id="text256"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="360.50201"
+       y="-119.234"
+       id="tspan258" />
+  </text>
+  <g
+     id="g260">
+    <rect
+       width="118"
+       height="78.384003"
+       x="667"
+       y="277.866"
+       id="rect262"
+       style="fill:#ffffff" />
+    <rect
+       width="118"
+       height="78.384003"
+       x="667"
+       y="277.866"
+       id="rect264"
+       style="fill:none;stroke:#000000;stroke-width:4" />
+  </g>
+  <text
+     x="726"
+     y="300.755"
+     id="text266"
+     style="font-size:18.06220055px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:Liberation Sans">
+    <tspan
+       x="726"
+       y="300.755"
+       id="tspan268">svc -d svcdir</tspan>
+    <tspan
+       x="726"
+       y="323.33301"
+       id="tspan270">svc -u svcdir</tspan>
+    <tspan
+       x="726"
+       y="345.91101"
+       id="tspan272">svc -t svcdir</tspan>
+  </text>
+  <text
+     x="906.00201"
+     y="283.56601"
+     id="text274"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="906.00201"
+       y="283.56601"
+       id="tspan276" />
+  </text>
+  <g
+     id="g278">
+    <rect
+       width="116.998"
+       height="29.615999"
+       x="841.00201"
+       y="296.25"
+       id="rect280"
+       style="fill:#ffffff" />
+    <rect
+       width="116.998"
+       height="29.615999"
+       x="841.00201"
+       y="296.25"
+       id="rect282"
+       style="fill:none;stroke:#000000;stroke-width:4" />
+  </g>
+  <text
+     x="899.50201"
+     y="317.33301"
+     id="text284"
+     style="font-size:18.06220055px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:Liberation Sans">
+    <tspan
+       x="899.50201"
+       y="317.33301"
+       id="tspan286">svstat svcdir</tspan>
+  </text>
+  <g
+     id="g288">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:4"
+       points="899.417,339.204 899.336,365.963 "
+       id="polyline290" />
+    <polygon
+       points="904.409,341.719 899.417,339.204 894.41,341.688 899.44,331.704 "
+       id="polygon292"
+       style="fill:#000000" />
+    <polygon
+       points="904.409,341.719 899.417,339.204 894.41,341.688 899.44,331.704 "
+       id="polygon294"
+       style="fill:none;stroke:#000000;stroke-width:4" />
+    <polygon
+       points="894.344,363.448 899.336,365.963 904.344,363.478 899.314,373.463 "
+       id="polygon296"
+       style="fill:#000000" />
+    <polygon
+       points="894.344,363.448 899.336,365.963 904.344,363.478 899.314,373.463 "
+       id="polygon298"
+       style="fill:none;stroke:#000000;stroke-width:4" />
+  </g>
+  <g
+     id="g300">
+    <path
+       d="m 807.002,485.566 185.998,0 0,49.947 -92.999,12.487 -92.999,-12.487 0,-49.947 z"
+       inkscape:connector-curvature="0"
+       id="path302"
+       style="fill:#ffffff" />
+    <path
+       d="m 807.002,485.566 185.998,0 0,49.947 -92.999,12.487 -92.999,-12.487 0,-49.947"
+       inkscape:connector-curvature="0"
+       id="path304"
+       style="fill:none;stroke:#000000;stroke-width:4" />
+    <text
+       x="900.00098"
+       y="516.18402"
+       id="text306"
+       style="font-size:18.06220055px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans-serif">
+      <tspan
+         x="900.00098"
+         y="516.18402"
+         id="tspan308" />
+    </text>
+  </g>
+  <text
+     x="900.00201"
+     y="511.76999"
+     id="text310"
+     style="font-size:18.06220055px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:Liberation Sans">
+    <tspan
+       x="900.00201"
+       y="511.76999"
+       id="tspan312">Connector A: Service</tspan>
+    <tspan
+       x="900.00201"
+       y="534.34802"
+       id="tspan314">(one per symlink)</tspan>
+  </text>
+  <text
+     x="422.00201"
+     y="-116.434"
+     id="text316"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="422.00201"
+       y="-116.434"
+       id="tspan318" />
+  </text>
+  <g
+     id="g320">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:4"
+       points="899.35,409.868 899.726,471.607 "
+       id="polyline322" />
+    <polygon
+       points="894.711,469.137 899.726,471.607 904.711,469.076 899.772,479.107 "
+       id="polygon324"
+       style="fill:#000000" />
+    <polygon
+       points="894.711,469.137 899.726,471.607 904.711,469.076 899.772,479.107 "
+       id="polygon326"
+       style="fill:none;stroke:#000000;stroke-width:4" />
+  </g>
+  <text
+     x="906"
+     y="425.25"
+     id="text328"
+     style="font-size:18.06220055px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Liberation Sans">
+    <tspan
+       x="906"
+       y="425.25"
+       id="tspan330">Runs or</tspan>
+    <tspan
+       x="906"
+       y="447.828"
+       id="tspan332">stops</tspan>
+  </text>
+  <text
+     x="734.00201"
+     y="354.56601"
+     id="text334"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="734.00201"
+       y="354.56601"
+       id="tspan336" />
+  </text>
+  <text
+     x="655.00201"
+     y="290.06601"
+     id="text338"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="655.00201"
+       y="290.06601"
+       id="tspan340" />
+  </text>
+  <text
+     x="869"
+     y="-7.75"
+     id="text342"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="869"
+       y="-7.75"
+       id="tspan344" />
+  </text>
+  <text
+     x="942"
+     y="397.25"
+     id="text346"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="942"
+       y="397.25"
+       id="tspan348" />
+  </text>
+  <text
+     x="753"
+     y="320.25"
+     id="text350"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="753"
+       y="320.25"
+       id="tspan352" />
+  </text>
+  <text
+     x="895"
+     y="303.25"
+     id="text354"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="895"
+       y="303.25"
+       id="tspan356" />
+  </text>
+  <text
+     x="911"
+     y="300.25"
+     id="text358"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="911"
+       y="300.25"
+       id="tspan360" />
+  </text>
+  <text
+     x="918"
+     y="319.25"
+     id="text362"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="918"
+       y="319.25"
+       id="tspan364" />
+  </text>
+  <text
+     x="896"
+     y="319.25"
+     id="text366"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="896"
+       y="319.25"
+       id="tspan368" />
+  </text>
+  <g
+     id="g370">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:4"
+       points="664.993,318.154 604,319.25 605,393.25 783.033,393.623 "
+       id="polyline372" />
+    <polygon
+       points="780.522,398.617 783.033,393.623 780.543,388.617 790.533,393.638 "
+       id="polygon374"
+       style="fill:#000000" />
+    <polygon
+       points="780.522,398.617 783.033,393.623 780.543,388.617 790.533,393.638 "
+       id="polygon376"
+       style="fill:none;stroke:#000000;stroke-width:4" />
+  </g>
+  <text
+     x="986"
+     y="523.25"
+     id="text378"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="986"
+       y="523.25"
+       id="tspan380" />
+  </text>
+  <g
+     id="g382">
+    <rect
+       width="207.35001"
+       height="28"
+       x="705.65002"
+       y="144.5"
+       id="rect384"
+       style="fill:#ffffff" />
+    <rect
+       width="207.35001"
+       height="28"
+       x="705.65002"
+       y="144.5"
+       id="rect386"
+       style="fill:none;stroke:#000000;stroke-width:4" />
+  </g>
+  <text
+     x="716"
+     y="164"
+     id="text388"
+     style="font-size:18.06220055px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Liberation Sans">
+    <tspan
+       x="716"
+       y="164"
+       id="tspan390">/command/svscanboot</tspan>
+  </text>
+  <g
+     id="g392">
+    <rect
+       width="207.35001"
+       height="28"
+       x="868.29999"
+       y="190.7"
+       id="rect394"
+       style="fill:#ffffff" />
+    <rect
+       width="207.35001"
+       height="28"
+       x="868.29999"
+       y="190.7"
+       id="rect396"
+       style="fill:none;stroke:#000000;stroke-width:4" />
+  </g>
+  <text
+     x="1062"
+     y="323"
+     id="text398"
+     style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans-serif">
+    <tspan
+       x="1062"
+       y="323"
+       id="tspan400" />
+  </text>
+  <text
+     x="876.65002"
+     y="210.2"
+     id="text402"
+     style="font-size:18.06220055px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Liberation Sans">
+    <tspan
+       x="876.65002"
+       y="210.2"
+       id="tspan404">/command/readproctitle</tspan>
+  </text>
+  <g
+     id="g406">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:4"
+       points="809.326,172.5 810,204 856.329,204.556 "
+       id="polyline408" />
+    <polygon
+       points="853.769,209.526 856.329,204.556 853.889,199.527 863.828,204.646 "
+       id="polygon410"
+       style="fill:#000000" />
+    <polygon
+       points="853.769,209.526 856.329,204.556 853.889,199.527 863.828,204.646 "
+       id="polygon412"
+       style="fill:none;stroke:#000000;stroke-width:4" />
+  </g>
+  <text
+     x="815"
+     y="196"
+     id="text414"
+     style="font-size:18.06220055px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Liberation Sans">
+    <tspan
+       x="815"
+       y="196"
+       id="tspan416">Runs</tspan>
+  </text>
+</svg>
